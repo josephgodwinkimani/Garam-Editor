@@ -1,5 +1,8 @@
 # Garam Editor
 
+[![Visual Studio Online](https://img.shields.io/vso/build/larsbrinkhoff/953a34b9-5966-4923-a48a-c41874cfb5f5/1.svg)]()
+[![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)]()
+
 First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
 
 The application can also run from portable device if launched. 
