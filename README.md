@@ -9,7 +9,7 @@ First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.cod
 
 [chocolatey download](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
-*Features*
+**Features**
 
 * [x] Unlimited Opening of files
 * [x] Powerful File explorer (with editor and preview)
@@ -18,7 +18,7 @@ The following features *do not* work yet:
 
 * Find/Replace
 
-*My wishlist:*
+**My wishlist:**
 
 * [ ] Detecting programming languages when typing or after saving new textfile *(Syntax Highlighting)*
 * [ ] Project workspaces support
