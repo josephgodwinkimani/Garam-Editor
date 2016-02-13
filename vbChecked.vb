@@ -1,0 +1,4 @@
+﻿
+Class vbChecked
+
+End Class

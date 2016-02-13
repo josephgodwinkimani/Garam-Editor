@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PerformanceReport>
+  <ProcessSummary>
+    <Process UPID="0" PID="10388" ProcessName="iexplore.exe" ProcBeginTime="0.00" ProcEndTime="28,717.14" LifeTime="28,717.14" />
+  </ProcessSummary>
+</PerformanceReport>

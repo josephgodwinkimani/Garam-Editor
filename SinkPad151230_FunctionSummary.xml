@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PerformanceReport>
+  <FunctionSummary>
+    <Function FunctionName="[System.Windows.Forms.ni.dll]" InclSamples="190" ExclSamples="190" InclSamplesPercent="41.67" ExclSamplesPercent="41.67" />
+    <Function FunctionName="[Microsoft.VisualBasic.ni.dll]" InclSamples="184" ExclSamples="184" InclSamplesPercent="40.35" ExclSamplesPercent="40.35" />
+    <Function FunctionName="[mscorwks.dll]" InclSamples="46" ExclSamples="46" InclSamplesPercent="10.09" ExclSamplesPercent="10.09" />
+    <Function FunctionName="[System.ni.dll]" InclSamples="35" ExclSamples="35" InclSamplesPercent="7.68" ExclSamplesPercent="7.68" />
+    <Function FunctionName="[mscorlib.ni.dll]" InclSamples="1" ExclSamples="1" InclSamplesPercent="0.22" ExclSamplesPercent="0.22" />
+    <Function FunctionName="SinkPad.Form1.Dispose" InclSamples="10" ExclSamples="0" InclSamplesPercent="2.19" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.Form1.Form1_Closing" InclSamples="16" ExclSamples="0" InclSamplesPercent="3.51" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.Form1.MenuItem14_Click" InclSamples="101" ExclSamples="0" InclSamplesPercent="22.15" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.Form1.MenuItem52_Click" InclSamples="15" ExclSamples="0" InclSamplesPercent="3.29" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.Form1.TextBox1_TextChanged" InclSamples="1" ExclSamples="0" InclSamplesPercent="0.22" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.Form1.Timer1_Tick" InclSamples="12" ExclSamples="0" InclSamplesPercent="2.63" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmauthor..ctor" InclSamples="5" ExclSamples="0" InclSamplesPercent="1.10" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmauthor.InitializeComponent" InclSamples="36" ExclSamples="0" InclSamplesPercent="7.89" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmauthor.Timer1_Tick" InclSamples="11" ExclSamples="0" InclSamplesPercent="2.41" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmScreenshotCapture..ctor" InclSamples="22" ExclSamples="0" InclSamplesPercent="4.82" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmScreenshotCapture.Dispose" InclSamples="4" ExclSamples="0" InclSamplesPercent="0.88" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmScreenshotCapture.frmScreenshotCapture_Load" InclSamples="18" ExclSamples="0" InclSamplesPercent="3.95" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.frmScreenshotCapture.InitializeComponent" InclSamples="23" ExclSamples="0" InclSamplesPercent="5.04" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.My.MyApplication.Main" InclSamples="181" ExclSamples="0" InclSamplesPercent="39.69" ExclSamplesPercent="0.00" />
+    <Function FunctionName="SinkPad.My.MyProject+MyForms.Create__Instance__" InclSamples="1" ExclSamples="0" InclSamplesPercent="0.22" ExclSamplesPercent="0.00" />
+  </FunctionSummary>
+</PerformanceReport>

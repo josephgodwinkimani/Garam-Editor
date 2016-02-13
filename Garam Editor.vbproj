@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0FDD6477-8665-4342-A941-DC1F4D0122ED}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>garam-cat.ico</ApplicationIcon>
+    <AssemblyKeyContainerName />
+    <AssemblyName>Garam Editor</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>GaramEditor</RootNamespace>
+    <StartupObject>GaramEditor.My.MyApplication</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\jgodwin\Downloads\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <SupportUrl>https://garameditor.codeplex.com/</SupportUrl>
+    <TargetCulture>en</TargetCulture>
+    <ProductName>Garam Editor~Dvoty girl~</ProductName>
+    <PublisherName>Joseph Godwin Kimani</PublisherName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Garam Editor.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Garam Editor.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B353A2246A5B87A30127A194300DD7290ACE45A7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Garam Editor_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoUpdater.NET">
+      <HintPath>packages\AutoupdaterdotNet.1.3.1\lib\AutoUpdater.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>packages\DotNetZip.1.9.7\lib\net20\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>packages\NUnit.3.0.1\lib\net20\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="PGK.Extensions">
+      <HintPath>packages\dnpextensions.2011.6.0.0\lib\PGK.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ExplorerMyFiles.Designer.vb">
+      <DependentUpon>ExplorerMyFiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExplorerMyFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAuthor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEventsLog.Designer.vb">
+      <DependentUpon>frmEventsLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEventsLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFindandReplace.Designer.VB">
+      <DependentUpon>frmFindandReplace.VB</DependentUpon>
+    </Compile>
+    <Compile Include="frmFindandReplace.VB">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRichAlternative.Designer.vb">
+      <DependentUpon>frmRichAlternative.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRichAlternative.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGaramEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScreenshotCapture.Designer.vb">
+      <DependentUpon>frmScreenshotCapture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmScreenshotCapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashscreen.Designer.vb">
+      <DependentUpon>frmSplashscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplashscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HTMLHelpClass.vb" />
+    <Compile Include="Licenses\AcknowledgmentAttribute.vb" />
+    <Compile Include="Licenses\LicenseInfo.vb" />
+    <Compile Include="Licenses\MitLicense.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="vbChecked.vb" />
+    <EmbeddedResource Include="ExplorerMyFiles.resx">
+      <DependentUpon>ExplorerMyFiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAuthor.resx">
+      <DependentUpon>frmAuthor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEventsLog.resx">
+      <DependentUpon>frmEventsLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFindandReplace.resx">
+      <DependentUpon>frmFindandReplace.VB</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRichAlternative.resx">
+      <DependentUpon>frmRichAlternative.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGaramEditor.resx">
+      <DependentUpon>frmGaramEditor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScreenshotCapture.resx">
+      <DependentUpon>frmScreenshotCapture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashscreen.resx">
+      <DependentUpon>frmSplashscreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="garam-cat.ico" />
+    <None Include="app.config" />
+    <None Include="Garam Editor_TemporaryKey.pfx" />
+    <None Include="Garam.chm" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>
