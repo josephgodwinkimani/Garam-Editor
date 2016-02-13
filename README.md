@@ -8,7 +8,7 @@ First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.cod
 
 **Author**
 
-[Application Page](http://gochojr.github.io/blogsite/Garam%20Editor/)
+[Application Page](http://gochojr.github.io/blogsite/Garam-Editor/)
 
 [Author's blog](http://gochojr.github.io/blogsite)
 
