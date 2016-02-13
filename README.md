@@ -1,15 +1,22 @@
+[![image](https://raw.githubusercontent.com/Gochojr/blogsite/gh-pages/images/256x256.png)](http://gochojr.github.io/blogsite/Garam-Editor/)
+
 # Garam Editor
 
-[![Visual Studio Online](https://img.shields.io/vso/build/larsbrinkhoff/953a34b9-5966-4923-a48a-c41874cfb5f5/1.svg)]()
-[![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)]()
+[![Visual Studio Online](https://img.shields.io/vso/build/larsbrinkhoff/953a34b9-5966-4923-a48a-c41874cfb5f5/1.svg)](https://ci.appveyor.com/project/josephgodwin/garam-editor)
+[![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
-[Home](http://gochojr.github.io/blogsite/Garam-Editor/)
+An advanced text-editor for all developers. With your input we can turn this editor to your own personal project development 'code play-ground' in whatever programming language imaginable; integrated with any and all code, project tracking and continuous development services.
 
-First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
+## Downloads
 
-## Alternative Downloads 
+First Release: **_Dvorty girl_ <2016-08-01>**
 
-[![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
+
+
+[![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/CodePlex.0.1.0.png)](https://garameditor.codeplex.com/) [![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/1.0.0.3) 
+
+
+
 
 **Features**
 
