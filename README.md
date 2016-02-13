@@ -14,11 +14,11 @@ First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.cod
 * [x] Unlimited Opening of files
 * [x] Powerful File explorer (with editor and preview)
 
-The following features *do not* work yet:
+Unfortunately, the following features *do not* work yet:
 
-* Find/Replace
+* [ ] Find/Replace
 
-**My wishlist:**
+**Wishlist:**
 
 * [ ] Detecting programming languages when typing or after saving new textfile *(Syntax Highlighting)*
 * [ ] Project workspaces support
