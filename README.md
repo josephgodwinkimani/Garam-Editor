@@ -4,9 +4,10 @@
 [![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)]()
 
 First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
-Alternative download: [chocolatey download](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
-The application can also run from portable device if launched. 
+## Alternative Downloads ## 
+
+[chocolatey download](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
 *Features*
 
