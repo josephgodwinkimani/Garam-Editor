@@ -1,17 +1,13 @@
 # Garam Editor
 
-    	advanced notepad
-
-Built by [Joseph Godwin Kimani](https://github.com/Gochojr)
-
 First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
 
 The application can also run from portable device if launched. 
 
 *Features*
 
-** Unlimited Opening of files
-** Powerful File explorer (with editor and preview)
+* [x] Unlimited Opening of files
+* [x] Powerful File explorer (with editor and preview)
 
 The following features *do not* work yet:
 
@@ -19,17 +15,19 @@ The following features *do not* work yet:
 
 *My wishlist:*
 
-* Detecting programming languages when typing or after saving new textfile *(Syntax Highlighting)*
-* Project workspaces support
-* Command line handler 
-* Export registry configurations
-* Bookmarks
-* Macro recorder
-* Multi-Language support
-* Compiler Output Parser for positioning on error line
-* User definable Execution keys
+* [ ] Detecting programming languages when typing or after saving new textfile *(Syntax Highlighting)*
+* [ ] Project workspaces support
+* [ ] Command line handler 
+* [ ] Export registry configurations
+* [ ] Bookmarks
+* [ ] Macro recorder
+* [ ] Multi-Language support
+* [ ] Compiler Output Parser for positioning on error line
+* [ ] User definable Execution keys
 
-**Author**
+## Author ##
+
+Built by [Joseph Godwin Kimani](https://github.com/Gochojr)
 
 [Application Page](http://gochojr.github.io/blogsite/Garam-Editor/)
 
@@ -40,7 +38,7 @@ The following features *do not* work yet:
 [Author's Resume](http://gochojr.github.io)
 
 
-**Trading under**
+## Trading under ##
 
 
 > CodeSink Distributed Developers
