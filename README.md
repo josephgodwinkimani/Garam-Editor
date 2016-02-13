@@ -5,7 +5,7 @@
 
 First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
 
-## Alternative Downloads ## 
+## Alternative Downloads 
 
 [chocolatey download](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
