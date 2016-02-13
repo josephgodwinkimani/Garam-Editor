@@ -7,7 +7,7 @@ First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.cod
 
 ## Alternative Downloads 
 
-[chocolatey download](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
+[![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
 **Features**
 
