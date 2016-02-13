@@ -25,6 +25,13 @@ The following features *do not* work yet:
 * [ ] Compiler Output Parser for positioning on error line
 * [ ] User definable Execution keys
 
+## Contributions ##
+
+You can push your change commits to this repository. I will add you automatically to the Garam Editor - [Visual Studio Team Services](https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx) team.
+[Visual Studio Team Services](https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx) is the main platform for Garam Editor development.
+
+
+
 ## Author ##
 
 Built by [Joseph Godwin Kimani](https://github.com/Gochojr)
