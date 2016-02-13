@@ -32,9 +32,9 @@ You can push your change commits to this repository. I will add you automaticall
 
 
 
-## Author ##
+## Contributors ##
 
-Built by [Joseph Godwin Kimani](https://github.com/Gochojr)
+* [Joseph Godwin Kimani](https://github.com/Gochojr)
 
 [Application Page](http://gochojr.github.io/blogsite/Garam-Editor/)
 
