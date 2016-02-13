@@ -4,6 +4,7 @@
 [![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)]()
 
 First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
+Alternative download: [chocolatey download](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
 
 The application can also run from portable device if launched. 
 
@@ -39,13 +40,13 @@ You can push your change commits to this repository. I will add you automaticall
 
 * [Joseph Godwin Kimani](https://github.com/Gochojr)
 
-[Application Page](http://gochojr.github.io/blogsite/Garam-Editor/)
+ - [Application Page](http://gochojr.github.io/blogsite/Garam-Editor/)
 
-[Author's blog](http://gochojr.github.io/blogsite)
+ - [Author's blog](http://gochojr.github.io/blogsite)
 
-[Other blog](https://gochojr.herokuapp.com)
+ - [Other blog](https://gochojr.herokuapp.com)
 
-[Author's Resume](http://gochojr.github.io)
+ - [Author's Resume](http://gochojr.github.io)
 
 
 ## Trading under ##
