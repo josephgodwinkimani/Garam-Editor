@@ -3,6 +3,8 @@
 [![Visual Studio Online](https://img.shields.io/vso/build/larsbrinkhoff/953a34b9-5966-4923-a48a-c41874cfb5f5/1.svg)]()
 [![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)]()
 
+[Home](http://gochojr.github.io/blogsite/Garam-Editor/)
+
 First Release: [_~Dvorty girl~_  <2016-08-01> [x64/x32]](https://garameditor.codeplex.com/)
 
 ## Alternative Downloads 
@@ -40,8 +42,6 @@ You can push your change commits to this repository. I will add you automaticall
 ## Contributors ##
 
 * [Joseph Godwin Kimani](https://github.com/Gochojr)
-
- - [Application Page](http://gochojr.github.io/blogsite/Garam-Editor/)
 
  - [Author's blog](http://gochojr.github.io/blogsite)
 
