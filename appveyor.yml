@@ -1,0 +1,12 @@
+version: 1.0.{build}
+branches:
+  only:
+  - builds
+configuration: Release
+platform: Any CPU
+build:
+  publish_nuget: true
+  publish_nuget_symbols: true
+  include_nuget_references: true
+  parallel: true
+  verbosity: normal
