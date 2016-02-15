@@ -2,8 +2,11 @@
 
 # Garam Editor
 
-[![Visual Studio Online](https://img.shields.io/vso/build/larsbrinkhoff/953a34b9-5966-4923-a48a-c41874cfb5f5/1.svg)](https://ci.appveyor.com/project/josephgodwin/garam-editor)
+[![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://ci.appveyor.com/project/josephgodwin/garam-editor)
 [![Chocolatey](https://img.shields.io/chocolatey/v/git.svg)](https://chocolatey.org/packages/Garam-Editor/1.0.0.3)
+[![Build Status](https://travis-ci.org/Gochojr/Garam-Editor.svg?branch=master)](https://travis-ci.org/Gochojr/Garam-Editor)
+[![Visual Studio Online](https://img.shields.io/vso/build/larsbrinkhoff/953a34b9-5966-4923-a48a-c41874cfb5f5/1.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://raw.githubusercontent.com/Gochojr/Garam-Editor/master/LICENSE)
 
 An advanced text-editor for all developers. With your input we can turn this editor to your own personal project development 'code play-ground' in whatever programming language imaginable; integrated with any and all code, project tracking and continuous development services.
 
