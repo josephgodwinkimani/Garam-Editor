@@ -1,4 +1,6 @@
-[![image](https://raw.githubusercontent.com/Gochojr/blogsite/gh-pages/images/256x256.png)](http://gochojr.github.io/blogsite/Garam-Editor/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gochojr/blogsite/gh-pages/images/256x256.png" alt="Garam-cat" />
+</p>
 
 # Garam Editor
 
