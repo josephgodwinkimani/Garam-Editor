@@ -1,2 +1,9 @@
 language: vbnet
 solution: Garam Editor.sln
+
+install:
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
+ 
+script:
+  - xbuild CI.proj
+  - nunit-console ./src/Garam Editor.Tests/bin/Debug/Garam Editor.Tests.dll -exclude Integration,NotWorkingOnMono
