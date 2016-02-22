@@ -43,6 +43,7 @@ Unfortunately, the following features *do not* work yet:
 * [ ] Multi-Language support
 * [ ] Compiler Output Parser for positioning on error line
 * [ ] User definable Execution keys
+* [ ] Make Garam Editor package available through Zero Install
 
 ## Contributions ##
 
