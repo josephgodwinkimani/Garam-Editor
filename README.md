@@ -41,7 +41,7 @@ Unfortunately, the following features *do not* work yet:
 
 ## License
 
-[**_free of charge, to any person obtaining a copy of Garam Editor..._**](https://github.com/Gochojr/Garam-Editor/blob/master/Licenses/MitLicense.vb)
+[**_Expat :trollface:..._**](https://github.com/Gochojr/Garam-Editor/blob/master/Licenses/MitLicense.vb)
 
 ## Contributions 
 
