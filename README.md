@@ -14,11 +14,12 @@ An advanced text-editor for all developers. With your input we can turn this edi
 
 ## Downloads
 
-First Release: **_Dvorty girl_ <2016-08-01>**
+* First Release: **_Dvorty girl_ <2016-08-01>** Version: **1.0.0.3**(beta)
+* Second Release: **_Dvory girl_ <2016-08-01>** Version: **1.0.0.4**(alpha) 
 
 
 
-[![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/CodePlex.0.1.0.png)](https://garameditor.codeplex.com/) [![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/1.0.0.3) 
+[![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/CodePlex.0.1.0.png)](https://garameditor.codeplex.com/) [![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/1.0.0.4) [![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/NuGetPackageManager.2.6.1.png)](https://www.nuget.org/packages/Garam-Editor/) 
 
 
 
@@ -58,9 +59,7 @@ You can push your change commits to this repository. I will add you automaticall
 
  - [Author's blog](http://gochojr.github.io/blogsite)
 
- - [Other blog](https://gochojr.herokuapp.com)
-
- - [Author's Resume](http://gochojr.github.io)
+ - [Author's Resume](http://gochojr.github.io/vitae)
 
 
 ## Trading under ##
