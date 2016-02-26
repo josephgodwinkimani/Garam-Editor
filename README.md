@@ -15,7 +15,7 @@ An advanced text-editor for all developers. With your input we can turn this edi
 ## Downloads
 
 * First Release: **_Dvorty girl_ <2016-08-01>** Version: **1.0.0.3**(beta)
-* Second Release: **_Dvory girl_ <2016-08-01>** Version: **1.0.0.4**(alpha) 
+* Second Release: **_Dvory girl_ <2016-13-02>** Version: **1.0.0.4**(alpha) 
 
 
 
