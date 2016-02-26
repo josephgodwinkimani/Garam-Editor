@@ -43,6 +43,8 @@ Unfortunately, the following features *do not* work yet:
 
 [**_Expat :trollface:..._**](https://github.com/Gochojr/Garam-Editor/blob/master/Licenses/MitLicense.vb)
 
+[**_Read your rights!_**](https://tldrlegal.com/license/mit-license)
+
 ## Contributions 
 
 You can push your change commits to this repository. I will add you automatically to the Garam Editor - [Visual Studio Team Services](https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx) team.
