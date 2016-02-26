@@ -19,7 +19,7 @@ An advanced text-editor for all developers. With your input we can turn this edi
 
 
 
-[![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/CodePlex.0.1.0.png)](https://garameditor.codeplex.com/) [![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/1.0.0.4) [![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/NuGetPackageManager.2.6.1.png)](https://www.nuget.org/packages/Garam-Editor/) 
+[![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/CodePlex.0.1.0.png)](https://garameditor.codeplex.com/) [![image](https://raw.githubusercontent.com/chocolatey/choco-wiki/master/images/chocolateyicon.png)](https://chocolatey.org/packages/Garam-Editor/) [![image](https://raw.githubusercontent.com/Gochojr/gochojr.github.io/master/assets/images/NuGetPackageManager.2.6.1.png)](https://www.nuget.org/packages/Garam-Editor/) 
 
 
 
