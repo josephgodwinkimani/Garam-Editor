@@ -1,0 +1,64 @@
+[[garam-editor]]
+Garam Editor
+------------
+
+https://ci.appveyor.com/project/josephgodwin/garam-editor[image:https://img.shields.io/appveyor/ci/gruntjs/grunt.svg[AppVeyor]] +
+https://chocolatey.org/packages/Garam-Editor/1.0.0.3[image:https://img.shields.io/chocolatey/v/git.svg[Chocolatey]] +
+https://travis-ci.org/Gochojr/Garam-Editor[image:https://travis-ci.org/Gochojr/Garam-Editor.svg?branch=master[Build
+Status]] +
+https://raw.githubusercontent.com/Gochojr/Garam-Editor/master/LICENSE[image:https://img.shields.io/packagist/l/doctrine/orm.svg[Packagist]]
+
+An advanced text-editor for all developers. With your input we can turn
+this editor to your own personal project development `code play-ground'
+in whatever programming language imaginable; integrated with any and all
+code, project tracking and continuous development services.
+
+*Features*
+
+* [x] Unlimited Opening of files
+* [x] Powerful File explorer (with editor and preview)
+
+Unfortunately, the following features _do not_ work yet:
+
+* [ ] Find/Replace
+
+*Wishlist:*
+
+* [ ] Detecting programming languages when typing or after saving new
+textfile _(Syntax Highlighting)_
+* [ ] Project workspaces support
+* [ ] Command line handler
+* [ ] Export registry configurations
+* [ ] Bookmarks
+* [ ] Macro recorder
+* [ ] Multi-Language support
+* [ ] Compiler Output Parser for positioning on error line
+* [ ] User definable Execution keys
+* [ ] Make Garam Editor package available through Zero Install
+
+[[downloads]]
+Downloads
+~~~~~~~~~
+
+https://github.com/Gochojr/Garam-Editor/blob/builds/README.md[*_Click to
+choose your download…_*]
+
+[[license]]
+License
+~~~~~~~
+
+https://github.com/Gochojr/Garam-Editor/blob/master/Licenses/MitLicense.vb[*_Expat
+:trollface:…_*]
+
+https://tldrlegal.com/license/mit-license[*_Read your rights!_*]
+
+[[contributions]]
+Contributions
+~~~~~~~~~~~~~
+
+You can push your change commits to this repository. I will add you
+automatically to the Garam Editor -
+https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx[Visual
+Studio Team Services] team. +
+https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx[Visual
+Studio Team Services] is the main platform for Garam Editor development.t
