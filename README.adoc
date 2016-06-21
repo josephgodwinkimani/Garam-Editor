@@ -6,9 +6,9 @@ Garam Editor
 
 https://ci.appveyor.com/project/josephgodwin/garam-editor[image:https://img.shields.io/appveyor/ci/gruntjs/grunt.svg[AppVeyor]] +
 https://chocolatey.org/packages/Garam-Editor/1.0.0.3[image:https://img.shields.io/chocolatey/v/git.svg[Chocolatey]] +
-https://travis-ci.org/Gochojr/Garam-Editor[image:https://travis-ci.org/Gochojr/Garam-Editor.svg?branch=master[Build
+https://travis-ci.org/josephgodwinkimani/Garam-Editor[image:https://travis-ci.org/josephgodwinkimani/Garam-Editor.svg?branch=master[Build
 Status]] +
-https://raw.githubusercontent.com/Gochojr/Garam-Editor/master/LICENSE[image:https://img.shields.io/packagist/l/doctrine/orm.svg[Packagist]]
+https://raw.githubusercontent.com/josephgodwinkimani/Garam-Editor/master/LICENSE[image:https://img.shields.io/packagist/l/doctrine/orm.svg[Packagist]]
 
 An advanced text-editor for all developers. With your input we can turn
 this editor to your own personal project development `code play-ground'
@@ -42,14 +42,14 @@ textfile _(Syntax Highlighting)_
 Downloads
 ~~~~~~~~~
 
-https://github.com/Gochojr/Garam-Editor/blob/builds/README.md[*_Click to
+https://github.com/josephgodwinkimani/Garam-Editor/blob/builds/README.md[*_Click to
 choose your download…_*]
 
 [[license]]
 License
 ~~~~~~~
 
-https://github.com/Gochojr/Garam-Editor/blob/master/Licenses/MitLicense.vb[*_Expat
+https://github.com/josephgodwinkimani/Garam-Editor/blob/master/Licenses/MitLicense.vb[*_Expat
 :trollface:…_*]
 
 https://tldrlegal.com/license/mit-license[*_Read your rights!_*]
