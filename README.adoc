@@ -4,9 +4,7 @@ image:https://raw.githubusercontent.com/Gochojr/blogsite/gh-pages/images/256x256
 Garam Editor
 ------------
 
-https://chocolatey.org/packages/Garam-Editor[image:https://img.shields.io/chocolatey/v/git.svg[Chocolatey]] +
-https://travis-ci.org/josephgodwinkimani/Garam-Editor[image:https://travis-ci.org/josephgodwinkimani/Garam-Editor.svg?branch=master[Build
-Status]]
+https://chocolatey.org/packages/Garam-Editor[image:https://img.shields.io/chocolatey/v/git.svg[Chocolatey]]
 
 An advanced text-editor for all developers. With your input we can turn
 this editor to your own personal project development `code play-ground'
