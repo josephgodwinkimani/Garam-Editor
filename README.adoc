@@ -4,7 +4,6 @@ image:https://raw.githubusercontent.com/Gochojr/blogsite/gh-pages/images/256x256
 Garam Editor
 ------------
 
-https://ci.appveyor.com/project/josephgodwin/garam-editor[image:https://img.shields.io/appveyor/ci/gruntjs/grunt.svg[AppVeyor]] +
 https://chocolatey.org/packages/Garam-Editor/1.0.0.3[image:https://img.shields.io/chocolatey/v/git.svg[Chocolatey]] +
 https://travis-ci.org/josephgodwinkimani/Garam-Editor[image:https://travis-ci.org/josephgodwinkimani/Garam-Editor.svg?branch=master[Build
 Status]] +
