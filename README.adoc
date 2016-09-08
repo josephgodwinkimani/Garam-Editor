@@ -13,26 +13,26 @@ code, project tracking and continuous development services.
 
 *Features*
 
-- [*] Unlimited Opening of files
-- [*] Powerful File explorer (with editor and preview)
+[*] Unlimited Opening of files
+[*] Powerful File explorer (with editor and preview)
 
 Unfortunately, the following features _do not_ work yet:
 
-* [ ] Find/Replace
+[ ] Find/Replace
 
 *Wishlist:*
 
-- [ ] Detecting programming languages when typing or after saving new
+[ ] Detecting programming languages when typing or after saving new
 textfile _(Syntax Highlighting)_
-- [ ] Project workspaces support
-- [ ] Command line handler
-- [ ] Export registry configurations
-- [ ] Bookmarks
-- [ ] Macro recorder
-- [ ] Multi-Language support
-- [ ] Compiler Output Parser for positioning on error line
-- [ ] User definable Execution keys
-- [ ] Make Garam Editor package available through Zero Install
+[ ] Project workspaces support
+[ ] Command line handler
+[ ] Export registry configurations
+[ ] Bookmarks
+[ ] Macro recorder
+[ ] Multi-Language support
+[ ] Compiler Output Parser for positioning on error line
+[ ] User definable Execution keys
+[ ] Make Garam Editor package available through Zero Install
 
 [[downloads]]
 Downloads
