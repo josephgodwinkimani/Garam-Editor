@@ -34,9 +34,8 @@ textfile _(Syntax Highlighting)_
 * User definable Execution keys
 * Make Garam Editor package available through Zero Install
 
-[[downloads]]
-Downloads
+[[build]]
+Build
 ~~~~~~~~~
 
-https://github.com/josephgodwinkimani/Garam-Editor/blob/builds/README.md[*_Click to
-choose your download…_*]
+Press F5 to build and run the application. You can find the final result in bin folder as Garam Editor.exe
