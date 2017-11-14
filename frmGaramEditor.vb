@@ -1201,7 +1201,7 @@ Public Class Form1
 
 
     Private Sub MenuItem50_Click(sender As Object, e As EventArgs) Handles MenuItem50.Click
-        Dim webAddress As String = "http://www.github.io/garameditor"
+        Dim webAddress As String = "https://github.com/josephgodwinkimani/Garam-Editor"
         Process.Start(webAddress)
         Me.StatusBarPanel1.Text = "Go to Homepage..."
         Me.EventsList.Items.Add("Action: Web Browser initialized. Homepage opened...")

@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Garam Editor")> 
-<Assembly: AssemblyDescription("Advanced Text Editor")> 
-<Assembly: AssemblyCompany("CodeSink Distributed Developers Group")> 
-<Assembly: AssemblyProduct("Advanced Text Editor")> 
-<Assembly: AssemblyCopyright("")> 
+<Assembly: AssemblyDescription("Advanced Text Editor")>
+<Assembly: AssemblyCompany("Joseph Godwin Kimani")>
+<Assembly: AssemblyProduct("Advanced Text Editor")>
+<Assembly: AssemblyCopyright("2015")>
 <Assembly: AssemblyTrademark("")> 
 <Assembly: CLSCompliant(True)> 
 

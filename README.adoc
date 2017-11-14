@@ -40,23 +40,3 @@ Downloads
 
 https://github.com/josephgodwinkimani/Garam-Editor/blob/builds/README.md[*_Click to
 choose your download…_*]
-
-[[license]]
-License
-~~~~~~~
-
-https://github.com/josephgodwinkimani/Garam-Editor/blob/master/Licenses/MitLicense.vb[*_Expat
-:trollface:…_*]
-
-https://tldrlegal.com/license/mit-license[*_Read your rights!_*]
-
-[[contributions]]
-Contributions
-~~~~~~~~~~~~~
-
-You can push your change commits to this repository. I will add you
-automatically to the Garam Editor -
-https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx[Visual
-Studio Team Services] team. +
-https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx[Visual
-Studio Team Services] is the main platform for Garam Editor development.t

@@ -258,7 +258,6 @@
   <ItemGroup>
     <Content Include="garam-cat.ico" />
     <None Include="app.config" />
-    <None Include="Garam Editor_TemporaryKey.pfx" />
     <None Include="Garam.chm" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">

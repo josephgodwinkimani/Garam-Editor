@@ -42,7 +42,7 @@ Friend NotInheritable Class MitLicense
     Public Overrides ReadOnly Property Text As String
         Get
             Dim myResult As New StringBuilder()
-            myResult.AppendLine("Copyright (c) <2015> <CodeSink Distributed Developers>")
+            myResult.AppendLine("Copyright (c) <2015> <Joseph Godwin Kimani>")
             myResult.AppendLine("")
             myResult.AppendLine("Permission is hereby granted, free of charge, to any person obtaining a copy")
             myResult.AppendLine("of this software and associated documentation files (the ""Software""), to deal")
