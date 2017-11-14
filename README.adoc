@@ -34,8 +34,6 @@ textfile _(Syntax Highlighting)_
 * User definable Execution keys
 * Make Garam Editor package available through Zero Install
 
-[[build]]
 Build
-~~~~~~~~~
 
 Press F5 to build and run the application. You can find the final result in bin folder as Garam Editor.exe
